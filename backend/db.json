@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Veio do Formulário",
+      "price": "9.99",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.44",
+      "id": 5
+    },
+    {
+      "name": "fgf",
+      "price": "12",
+      "id": 6
+    }
+  ]
+}
